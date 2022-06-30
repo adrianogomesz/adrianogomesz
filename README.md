@@ -1,19 +1,16 @@
-### Pleasure, my name is Adriano! Software development student and information technology enthusiast
+## Pleasure, my name is Adriano! Software development student and information technology enthusiast
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/adrianogomesz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianogomesz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogomesz&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
-##
-
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Dede-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dede-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" width="50" style="border-radius:50px;" src="https://media.discordapp.net/attachments/411009540390125570/991946357373943848/tenor.gif">
 </div>
-
 
 ##
 
