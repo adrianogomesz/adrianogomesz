@@ -1,5 +1,8 @@
 ## Pleasure, my name is Adriano! Software development student and information technology enthusiast
 
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![tenor](https://user-images.githubusercontent.com/106283553/176610713-c078826b-7208-4f1f-af6b-282c10765842.gif)">
+
+
 <div align="center">
   <a href="https://github.com/adrianogomesz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianogomesz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
