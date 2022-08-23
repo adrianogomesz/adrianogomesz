@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dede-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dede-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dede-PythonDjango" height="30" width="40" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png">
+  <img align="center" alt="Dede-PythonDjango" height="30" width="40" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
 </div>
 
 ##
