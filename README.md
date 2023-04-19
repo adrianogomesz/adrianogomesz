@@ -4,9 +4,10 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianogomesz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogomesz&layout=compact&langs_count=7&theme=merko"/>
 </div>
-<div style="display: inline_block"><br>
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
-</div>
+
 
 ##
 
