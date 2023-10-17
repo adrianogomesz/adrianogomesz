@@ -1,4 +1,6 @@
 ## Olá, me chamo Adriano e sou um Desenvolvedor de Softwares Back-end, seja bem vindo ao meu github!
+
+![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/2077/0-profile-details.svg)
 <div align="center">
 <a href="https://github.com/adrianogomesz">
 ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/2077/0-profile-details.svg)
