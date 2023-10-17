@@ -2,7 +2,8 @@
   
 <div align="center"> 
   ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/2077/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)                                                                                  ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-ary-card-output/midnight_purple/3-stats.svg)
+![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/midnight_purple/3-stats.svg)
+
 </div>
 
 <p align="center">
