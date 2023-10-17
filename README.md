@@ -1,6 +1,7 @@
 ## Olá, me chamo Adriano e sou um Desenvolvedor de Softwares Back-end, seja bem vindo ao meu github!
 
 ![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
