@@ -1,7 +1,7 @@
 ## Olá, me chamo Adriano e sou um Desenvolvedor de Softwares Back-end, seja bem vindo ao meu github!
 <div align="center">
 <a href="https://github.com/adrianogomesz">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianogomesz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+![](https://raw.githubusercontent.com/adrianogomesz/adrianogomesz/main/profile-summary-card-output/2077/0-profile-details.svg)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogomesz&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
