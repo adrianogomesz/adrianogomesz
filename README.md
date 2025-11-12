@@ -12,7 +12,7 @@
 
 ##
 
-<img align="center" src="https://github.com/adrianogomesz/adrianogomesz/blob/main/tenor.gif?raw=true">
+<img src="https://github.com/adrianogomesz/adrianogomesz/blob/main/tenor.gif?raw=true">
 
 
 
