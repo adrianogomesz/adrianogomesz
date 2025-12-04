@@ -12,10 +12,6 @@
   <a href="https://www.linkedin.com/in/adrianogomesz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-<div align="center">
-<img src="https://github.com/adrianogomesz/adrianogomesz/blob/main/tenor.gif?raw=true"> 
-</div>
-
 
 
 
